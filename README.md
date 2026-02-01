@@ -44,14 +44,14 @@ I learn best by building real things and iterating fast.
 
 **AI / LLMs**
 <p>
-  <img src="https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai" />
-  <img src="https://img.shields.io/badge/Claude-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Gemini-black?style=for-the-badge&logo=google" />
+  <img src="images/openai_light.png" alt="OpenAI" height="48" />
+  <img src="images/claude.png" alt="Claude" height="48" />
+  <img src="images/gemini.png" alt="Gemini" height="48" />
 </p>
 
 **IDEs / Editors**
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode" />
-  <img src="https://img.shields.io/badge/Cursor-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Antigravity-black?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="48" />
+  <img src="images/cursor_light.png" alt="Cursor" height="48" />
+  <img src="images/antigravity.png" alt="Antigravity" height="48" />
 </p>
