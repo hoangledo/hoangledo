@@ -1,30 +1,57 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Builder+at+Heart;Always+Learning" />
-</p>
+## 👋 Hi there
 
-<p align="center">
-  🎓 CS @ University of Rochester · 💻 SWE Intern @ Meta (Summer 2025) · 🏆 5× Hackathon Winner
-</p>
+I’m Hoang.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,postgres,docker,git,linux" />
-</p>
+- 🎓 CS @ University of Rochester 
+- 💻 SWE Intern @ Meta (Summer 2025)
+- 🏆 5× Hackathon Winner
+
+This is where I build things, learn new stuff, experiment, break things, and figure them out along the way.
 
 ---
 
-### 🚀 Selected Builds
-- **TeachXR** — AI-powered XR teacher *(CalHacks Winner)*  
-- **Young Heroes** — Emergency education app *(HopHacks Winner)*  
-- **Kensho** — Personal finance tracker  
-
----
-
-### 🧪 Currently Exploring
-- AI Agents, RAG pipelines & modern AI workflows  
+### 🧪 In the lab (currently cooking)
+- AI agents, RAG, and applied AI workflows  
 - Fintech systems & data-driven products  
 - Backend architecture & system design  
-- DevOps, CI/CD, cloud infrastructure  
+- DevOps, CI/CD, cloud & infra  
+
+I learn best by building real things and iterating fast.
 
 ---
 
-> Build fast. Learn deeply. Repeat.
+### 🛠 Tech I’ve worked with
+
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,ts,js,c,cpp,php,go" />
+</p>
+
+**Frameworks & Runtime**
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,spring,nodejs" />
+</p>
+
+**Databases & Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase" />
+</p>
+
+**Infra & Tooling**
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,linux,postman,aws,gcp" />
+</p>
+
+**AI / LLMs**
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai" />
+  <img src="https://img.shields.io/badge/Claude-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gemini-black?style=for-the-badge&logo=google" />
+</p>
+
+**IDEs / Editors**
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://img.shields.io/badge/Cursor-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Antigravity-black?style=for-the-badge" />
+</p>
