@@ -1,6 +1,6 @@
-## 👋 Hi there
+## 👋 Hi there!
 
-I’m Hoang.
+I’m Hoang. 21 years old.
 
 - 🎓 CS @ University of Rochester 
 - 💻 SWE Intern @ Meta (Summer 2025)
