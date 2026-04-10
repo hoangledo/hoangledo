@@ -9,3 +9,9 @@ CS ꩜ URochester.
 - 💬 Talk to me about: backend architecture, cloud, infra, applied AI
 
 Find me at **[hoangledo.com](https://hoangledo.com)**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoangledo/hoangledo/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hoangledo/hoangledo/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/hoangledo/hoangledo/output/github-snake.svg" />
+</picture>
